@@ -1,0 +1,18 @@
+메인브랜치에서 코드 수정함
+
+
+git add 파일명 
+git add .   ||파일 전체 올리김
+git commit 파일명 -m "내용작성"
+git status -- 상태를 
+git log --oneline --all --graph
+git branch - 복사본? 
+git merge 파일명
+
+
+브랜치 생성은  git branch 브랜치명
+브랜치 이동은 git switch 브랜치명
+브랜치 합치기는 기준 브랜치 이동후 git merge 브랜치명
+충동해결은 코드고치고 git add & git commit
+
+
