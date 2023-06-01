@@ -21,3 +21,12 @@ rebase
 
 3-way merge :기본 merge
 fast-forward merge  
+
+git add Mai
+git add main.txt
+merge
+branch
+TEST 중입니다.
+
+git은  버전을 관리하는 프로그램이다.
+
