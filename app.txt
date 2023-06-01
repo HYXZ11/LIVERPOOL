@@ -1,4 +1,5 @@
 메인브랜치에서 코드 수정함
+내용을 입력합니다.
 
 
 git add 파일명 
@@ -14,5 +15,9 @@ git merge 파일명
 브랜치 이동은 git switch 브랜치명
 브랜치 합치기는 기준 브랜치 이동후 git merge 브랜치명
 충동해결은 코드고치고 git add & git commit
+git branch -d
 
+rebase 
 
+3-way merge :기본 merge
+fast-forward merge  
